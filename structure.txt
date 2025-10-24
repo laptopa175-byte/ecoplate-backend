@@ -1,0 +1,69 @@
+Folder PATH listing for volume OS
+Volume serial number is AAD9-A960
+C:.
+¦   .gitattributes
+¦   .gitignore
+¦   HELP.md
+¦   mvnw
+¦   mvnw.cmd
+¦   pom.xml
+¦   structure.txt
+¦   
++---.mvn
+¦   +---wrapper
+¦           maven-wrapper.properties
+¦           
++---src
+¦   ¦   App.js
+¦   ¦   
+¦   +---main
+¦   ¦   +---java
+¦   ¦   ¦   +---com
+¦   ¦   ¦       +---ecoplate
+¦   ¦   ¦           +---canteen
+¦   ¦   ¦               ¦   EcoplateApplication.java
+¦   ¦   ¦               ¦   
+¦   ¦   ¦               +---config
+¦   ¦   ¦               ¦       DataSeeder.java
+¦   ¦   ¦               ¦       
+¦   ¦   ¦               +---controller
+¦   ¦   ¦               ¦       AuthController.java
+¦   ¦   ¦               ¦       DashboardController.java
+¦   ¦   ¦               ¦       LogoutController.java
+¦   ¦   ¦               ¦       PaymentController.java
+¦   ¦   ¦               ¦       
+¦   ¦   ¦               +---model
+¦   ¦   ¦               ¦       Order.java
+¦   ¦   ¦               ¦       User.java
+¦   ¦   ¦               ¦       
+¦   ¦   ¦               +---repository
+¦   ¦   ¦               ¦       OrderRepository.java
+¦   ¦   ¦               ¦       UserRepository.java
+¦   ¦   ¦               ¦       
+¦   ¦   ¦               +---service
+¦   ¦   ¦                       OrderService.java
+¦   ¦   ¦                       UserService.java
+¦   ¦   ¦                       
+¦   ¦   +---resources
+¦   ¦           application.properties
+¦   ¦           
+¦   +---test
+¦       +---java
+¦           +---com
+¦               +---ecoplate
+¦                   +---canteen
+¦                           EcoplateApplicationTests.java
+¦                           
++---target
+    +---classes
+    ¦       application.properties
+    ¦       
+    +---generated-sources
+    ¦   +---annotations
+    +---maven-status
+        +---maven-compiler-plugin
+            +---compile
+                +---default-compile
+                        createdFiles.lst
+                        inputFiles.lst
+                        
