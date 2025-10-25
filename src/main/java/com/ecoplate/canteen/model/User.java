@@ -1,4 +1,4 @@
-package com.example.canteen.model;
+package com.ecoplate.canteen.model;
 
 import jakarta.persistence.*;
 

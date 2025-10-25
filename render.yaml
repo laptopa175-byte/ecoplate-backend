@@ -1,9 +1,8 @@
 services:
   - type: web
     name: ecoplate-backend
-    env: java
-    buildCommand: ./mvnw package
-    startCommand: java -jar target/ecoplate-0.0.1-SNAPSHOT.jar
+    env: docker
+    dockerfilePath: Dockerfile
     branch: main
     region: oregon
     plan: free

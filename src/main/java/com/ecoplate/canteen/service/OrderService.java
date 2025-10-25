@@ -1,7 +1,7 @@
-package com.example.canteen.service;
+package com.ecoplate.canteen.service;
 
-import com.example.canteen.model.Order;
-import com.example.canteen.repository.OrderRepository;
+import com.ecoplate.canteen.model.Order;
+import com.ecoplate.canteen.repository.OrderRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

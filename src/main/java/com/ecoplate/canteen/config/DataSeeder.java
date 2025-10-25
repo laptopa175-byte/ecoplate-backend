@@ -1,4 +1,4 @@
-package com.example.canteen.config;
+package com.ecoplate.canteen.config;
 
 import com.example.canteen.model.Order;
 import com.example.canteen.model.User;

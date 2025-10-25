@@ -1,7 +1,7 @@
-package com.example.canteen.controller;
+package com.ecoplate.canteen.controller;
 
-import com.example.canteen.model.Order;
-import com.example.canteen.service.OrderService;
+import com.ecoplate.canteen.model.Order;
+import com.ecoplate.canteen.service.OrderService;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.autoconfigure.web.servlet.WebMvcTest;
